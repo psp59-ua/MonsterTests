@@ -1,0 +1,10 @@
+C:\Users\Pablo\source\repos\MonsterTests\MonsterTests\bin\Debug\MonsterTests.exe.config
+C:\Users\Pablo\source\repos\MonsterTests\MonsterTests\bin\Debug\MonsterTests.exe
+C:\Users\Pablo\source\repos\MonsterTests\MonsterTests\bin\Debug\MonsterTests.pdb
+C:\Users\Pablo\source\repos\MonsterTests\MonsterTests\obj\Debug\MonsterTests.csprojAssemblyReference.cache
+C:\Users\Pablo\source\repos\MonsterTests\MonsterTests\obj\Debug\MonsterTests.Form1.resources
+C:\Users\Pablo\source\repos\MonsterTests\MonsterTests\obj\Debug\MonsterTests.Properties.Resources.resources
+C:\Users\Pablo\source\repos\MonsterTests\MonsterTests\obj\Debug\MonsterTests.csproj.GenerateResource.cache
+C:\Users\Pablo\source\repos\MonsterTests\MonsterTests\obj\Debug\MonsterTests.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\source\repos\MonsterTests\MonsterTests\obj\Debug\MonsterTests.exe
+C:\Users\Pablo\source\repos\MonsterTests\MonsterTests\obj\Debug\MonsterTests.pdb
