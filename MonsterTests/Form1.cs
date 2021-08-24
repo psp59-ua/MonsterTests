@@ -14,6 +14,7 @@ namespace MonsterTests
 {
     public partial class Form1 : Form
     {
+
         public Form1()
         {
             InitializeComponent();
@@ -27,20 +28,23 @@ namespace MonsterTests
             if( ofd.ShowDialog() == DialogResult.OK)
             {
                 string ruta = ofd.FileName; //ofd.SafeFileName;
-                leer(ruta);
+                                            // leer(ruta);
+                PuenteDat datos = new PuenteDat();
+                datos.leer(ruta,texr);
+               // texr.Text = "Se hizo clic";
             }
             
         }
-        public static void leer(string ruta)
+        /*public static void leer(string ruta)
         {
             Stream fs = new FileStream(ruta, FileMode.Open, FileAccess.Read);
             StreamReader sr = new StreamReader(fs);
 
             string line = sr.ReadLine();
-           // textBox1.Text = line;
+            
 
-        }
+        }*/
 
-   
+       
     }
 }
