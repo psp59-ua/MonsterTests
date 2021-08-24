@@ -19,9 +19,6 @@ namespace MonsterTests
             Application.Run(new Form1());
         }
 
-       public static void leer(string ruta)
-        {
-
-        }
+      
     }
 }

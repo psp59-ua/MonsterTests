@@ -32,6 +32,7 @@ namespace MonsterTests
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.label1 = new System.Windows.Forms.Label();
             this.btnExam = new System.Windows.Forms.Button();
+            this.textBox1 = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // label1
@@ -56,6 +57,15 @@ namespace MonsterTests
             this.btnExam.UseVisualStyleBackColor = false;
             this.btnExam.Click += new System.EventHandler(this.btnExam_Click);
             // 
+            // textBox1
+            // 
+            this.textBox1.BackColor = System.Drawing.Color.PaleTurquoise;
+            this.textBox1.Location = new System.Drawing.Point(115, 196);
+            this.textBox1.Multiline = true;
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(216, 109);
+            this.textBox1.TabIndex = 3;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -63,6 +73,7 @@ namespace MonsterTests
             this.BackColor = System.Drawing.SystemColors.ControlDark;
             this.BackgroundImage = global::MonsterTests.Properties.Resources.Montaña;
             this.ClientSize = new System.Drawing.Size(804, 461);
+            this.Controls.Add(this.textBox1);
             this.Controls.Add(this.btnExam);
             this.Controls.Add(this.label1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
@@ -80,6 +91,7 @@ namespace MonsterTests
 
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button btnExam;
+        private System.Windows.Forms.TextBox textBox1;
     }
 }
 
