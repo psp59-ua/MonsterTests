@@ -63,6 +63,26 @@ namespace MonsterTests.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _78_785222_minecraft_2560_x_1440 {
+            get {
+                object obj = ResourceManager.GetObject("78-785222_minecraft-2560-x-1440", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Montaña {
+            get {
+                object obj = ResourceManager.GetObject("Montaña", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap test {
             get {
                 object obj = ResourceManager.GetObject("test", resourceCulture);
@@ -76,6 +96,26 @@ namespace MonsterTests.Properties {
         internal static System.Drawing.Bitmap test2 {
             get {
                 object obj = ResourceManager.GetObject("test2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap WhatsApp_Image_2021_08_24_at_11_51_08 {
+            get {
+                object obj = ResourceManager.GetObject("WhatsApp Image 2021-08-24 at 11.51.08", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap WhatsApp_Image_2021_08_24_at_11_511 {
+            get {
+                object obj = ResourceManager.GetObject("WhatsApp Image 2021-08-24 at 11.511", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
